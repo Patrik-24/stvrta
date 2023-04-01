@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(239, 248, 255);
+}
+.container {
+    margin: 100px 410px;
+    width: 45rem;
+}
+.box-film {
+    display: flex;
+    border-radius: 1rem 1rem;/*
+    background-color: rgb(175, 175, 175);*/
+    margin-top: 3rem;
+}
+.upr-img {
+    border-radius: 1rem 1rem;
+}
+.p-style {
+    font-family: 'Sofia Sans', sans-serif;
+    letter-spacing: 0.25px;
+    font-size: 14px;
+    line-height: 28px;
+    margin: 1rem;
+}
+.p-name {
+    font-family: 'Rubik Gemstones', cursive;
+    font-size: 19px;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 1;
+    margin: 1rem;
+}
+.nadpis {
+    color: rgb(79, 79, 79);
+    font-size: 25px;
+    margin: 0px 259px;
+}
+a {
+    margin: 1rem;
+    text-decoration: none;
+    background: rgb(189, 189, 189);
+    color: black;
+    padding: 0.3rem;
+    border-radius: 2rem;
+}
+a:hover {
+    color: white;
+    background-color: darkblue;
+}
+i {
+    margin: 20px 40px;
+}
+.rebricek {
+    background: yellow;
+    border: 2px dashed red;
+    border-radius: 2px;
+}
+ul {
+    list-style: none;
+    display: flex;
+    margin-left: 32%;
+}
